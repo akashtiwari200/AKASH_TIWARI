@@ -1,0 +1,20 @@
+{
+  "scripts": {
+    "start": "vite"
+  },
+  "devDependencies": {
+    "autoprefixer": "^10.4.20",
+    "postcss": "^8.4.41",
+    "tailwindcss": "^3.4.10",
+    "vite": "^4.5.3"
+  },
+  "dependencies": {
+    "feather": "^0.0.5"
+  },
+  "name": "razorpay_akashtiwari_clone",
+  "description": "This is a clone website for Razorpay, a popular online payments platform in India. The website is built using HTML and Tailwind CSS, a utility-first CSS framework that makes it easy to style and layout web pages.",
+  "version": "1.0.0",
+  "main": "postcss.config.js",
+  "author": "",
+  "license": "ISC"
+}
